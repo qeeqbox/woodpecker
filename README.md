@@ -60,7 +60,8 @@ http://172.17.0.2:6080/index.html
 For pre IP or DNS configuration (Usfual in some)
 
 ```console 
-docker run --privileged -it qeeqbox/woodpecker:1.0 "1.2.3.4" "nameserver 8.8.4.4"
+docker run --privileged -it qeeqbox/woodpecker:1.0 "IP Address or none" "DNS list or non"
+docker run --privileged -it qeeqbox/woodpecker:1.0 none "nameserver 8.8.4.4"
 ```
 
 ## Issues
