@@ -57,6 +57,12 @@ VNC pass  -> x#<q!J<thS
 http://172.17.0.2:6080/index.html
 ```
 
+For pre IP or DNS configuration (Usfual in some)
+
+```console 
+docker run --privileged -it qeeqbox/woodpecker:1.0 "1.2.3.4" "nameserver 8.8.4.4"
+```
+
 ## Issues
 #### Tor or VPN is stuck on initializing
 Right click -> Application -> Qbox tools -> Disable the service and then Enable it (Read the logs from on the desktop)
@@ -73,9 +79,9 @@ Right click -> Application -> Qbox tools -> Rest logs
 afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-factory bbqsql bdfproxy binwalk bluez bluez-hcidump braa btscanner cabextract cadaver cewl cgpt cherrytree chirp chkrootkit chntpw clang cmospwd crunch cryptcat cryptsetup curlftpfs cutycapt darkstat dc3dd dcfldd dhcpig dirb dmitry dns2tcp dnsrecon dnstracer dnswalk doona dos2unix driftnet dsniff edb-debugger ethtool ettercap-common ettercap-dbg ettercap-graphical ewf-tools exiv2 extundelete fcrackzip flasm foremost fping funkload galleta gdb ghex guymager hackrf hashcat hashdeep hashid hping3 httrack hydra hydra-gtk i2c-tools ifenslave ike-scan inetsim iodine john kismet leafpad libfreefare-bin libhivex-bin libnfc-bin lynis macchanger magicrescue maskprocessor masscan mc mdbtools mdk3 medusa memdump minicom miredo missidentify mitmproxy nasm nbtscan ncrack ncurses-hexedit netdiscover netmask netsed netsniff-ng netwag ngrep nikto nmap onesixtyone ophcrack ophcrack-cli p0f pasco patator pdfcrack pev pixiewps polenum proxychains proxytunnel pst-utils ptunnel pyrit python-impacket python-scapy radare2 rake reaver recon-ng recordmydesktop recoverjpeg redsocks reglookup rifiuti rifiuti2 safecopy samdump2 sbd scalpel scrounge-ntfs sendemail siege sipcrack skipfish sleuthkit socat spectools sqlitebrowser sqlmap ssldump sslh sslscan sslscan kismet sslsniff sslsplit sslstrip statsprocessor stunnel4 suckless-tools sucrack swaks t50 tcpdump tcpflow tcpick tcpreplay thc-ipv6 udptunnel vboot-kernel-utils vboot-utils vim-gtk vinetto vlan volatility vpnc wafw00f wapiti wfuzz whatweb wifite wireshark xpdf xprobe xtightvncviewer yersinia zenmap zim zmap
 
 ## Roadmap
-- Add IP argument
+- ~~Add IP argument~~
+- ~~Add DNS option (Requested)~~
 - Add VPN country option (Requested)
-- Add DNS option (Requested)
 
 ## Official images (Not custom ones)
 - [Ubuntu](https://ubuntu.com/)
