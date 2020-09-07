@@ -15,6 +15,9 @@ Woodpecker is a custom security distro for remote penetration testing. Some of t
 #### IP box in the desktop tray
 <img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/ip.png" style="max-width:768px"/>
 
+#### IP box stats the desktop tray
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/ipstats.png" style="max-width:768px"/>
+
 #### System and network information on the desktop
 <img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/system.png" style="max-width:768px"/>
 
