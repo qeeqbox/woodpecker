@@ -26,7 +26,7 @@ Woodpecker is a custom security distro for remote penetration testing. Some of t
 
 ## Running
 ```console 
-docker run --privileged -it qeeqbox/woodpecker:1.0
+docker run --privileged -it qeeqbox/woodpecker:1.0 
 ...
 ...
 Successfully built 20055ad080f9
