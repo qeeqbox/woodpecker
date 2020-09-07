@@ -8,6 +8,19 @@ Woodpecker is a custom security distro for remote penetration testing. Some of t
 ## Screenshot
 <img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/intro.png" style="max-width:768px"/>
 
+## Revamped Features
+#### Tor and VPN integrated in the desktop right click menu
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/menu.png" style="max-width:768px"/>
+
+#### IP box in the desktop tray
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/ip.png" style="max-width:768px"/>
+
+#### System and network information on the desktop
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/system.png" style="max-width:768px"/>
+
+#### Current logs are displyed on the desktop
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/logs.png" style="max-width:768px"/>
+
 ## Running
 ```console 
 docker run --privileged -it qeeqbox/woodpecker:1.0
@@ -41,6 +54,13 @@ VNC pass  -> x#<q!J<thS
 http://172.17.0.2:6080/index.html
 ```
 
+## Issues
+#### Tor or VPN is stuck on initializing
+Right click -> Application -> Qbox tools -> Disable the service and then Enable it (Read the logs from on the desktop)
+
+#### Some logs do not show up
+Right click -> Application -> Qbox tools -> Rest logs
+
 ## Changing resolution
 - RDP (Change it using the clint app)
 - VNC (Change it using `xrandr -s ...`)
@@ -51,6 +71,8 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 
 ## Roadmap
 - Add IP argument
+- Add VPN country option (Requested)
+- Add DNS option (Requested)
 
 ## Official images (Not custom ones)
 - [Ubuntu](https://ubuntu.com/)
