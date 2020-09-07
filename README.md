@@ -91,6 +91,8 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 - https://ubuntu.com/licensing
 - https://github.com/torproject/tor/blob/master/LICENSE
 - https://www.vpngate.net/en/join.aspx
+- https://wiki.xfce.org/faq
+- https://github.com/numixproject/numix-icon-theme/blob/master/license
 
 ## Disclaimer\Notes
 - Please treat this image as server 
