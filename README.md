@@ -74,9 +74,6 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 - Add VPN country option (Requested)
 - Add DNS option (Requested)
 
-## First share 
-- [KelvinSecurity](https://www.facebook.com/Ksecureteam/photos/a.1470315233251373/2700979773518240/?type=3&theater)
-
 ## Official images (Not custom ones)
 - [Ubuntu](https://ubuntu.com/)
 
