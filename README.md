@@ -82,6 +82,7 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 ## Roadmap
 - ~~Add IP argument~~
 - ~~Add DNS option (Requested)~~
+- ~~Qemu image~~
 - Add VPN country option (Requested)
 
 ## Official images (Not custom ones)
