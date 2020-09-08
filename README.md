@@ -84,6 +84,7 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 - ~~Add DNS option (Requested)~~
 - ~~Qemu image~~
 - Add VPN country option (Requested)
+- Add Brave (Requested)
 
 ## Official images (Not custom ones)
 - [Ubuntu](https://ubuntu.com/)
