@@ -97,7 +97,6 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 - https://github.com/numixproject/numix-icon-theme/blob/master/license
 
 ## Disclaimer\Notes
-- Please treat this image as server 
-- You may need to setup some security group rules
-- Do not use these images in deployment 
-
+- Treat this image as server
+- Do not deploy without proper configuration
+- Setup some security group rules and remove default credentials
