@@ -6,6 +6,8 @@
 Woodpecker is a custom security distro for remote penetration testing. Some of the original woodpecker's tools are replaced with newer ones (Tor and VPN initializers). This specific variation is based on Ubuntu and easy to maintain. 
 
 ## Screenshot
+<img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/intro.gif" style="max-width:768px"/>
+
 <img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/intro.png" style="max-width:768px"/>
 
 ## Revamped Features
