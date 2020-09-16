@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/woodpecker/master/readme/woodpecker.png"></p>
 
 #
-[![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/woodpecker/master/info&label=Woodpecker&query=$.woodpecker&colorB=blue)](https://github.com/qeeqbox/woodpecker/blob/master/changes.md)
+[![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/woodpecker/master/info&label=Woodpecker&query=$.woodpecker&colorB=blue&style=for-the-badge)](https://github.com/qeeqbox/woodpecker/blob/master/changes.md)
 
 Woodpecker is a custom security distro for remote penetration testing. Some of the original woodpecker's tools are replaced with newer ones (Tor and VPN initializers). This specific variation is based on Ubuntu and easy to maintain. 
 
