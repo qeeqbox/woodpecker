@@ -28,7 +28,7 @@ Woodpecker is a custom security distro for remote penetration testing. Some of t
 
 ## Running
 ```console 
-docker run -it --cap-add=NET_ADM qeeqbox/woodpecker:1.00
+docker run -it --cap-add=NET_ADMIN qeeqbox/woodpecker:1.00
 ...
 ...
 Successfully built 20055ad080f9
@@ -62,8 +62,8 @@ http://172.17.0.2:6080/index.html
 For pre IP or DNS configuration (Usfual in some)
 
 ```console 
-docker run -it --cap-add=NET_ADM qeeqbox/woodpecker:1.00 "IP Address or none" "DNS list or non"
-docker run -it --cap-add=NET_ADM qeeqbox/woodpecker:1.00 none "nameserver 8.8.4.4"
+docker run -it --cap-add=NET_ADMIN qeeqbox/woodpecker:1.00 "IP Address or none" "DNS list or non"
+docker run -it --cap-add=NET_ADMIN qeeqbox/woodpecker:1.00 none "nameserver 8.8.4.4"
 ```
 
 ## Issues
