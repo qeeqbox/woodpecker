@@ -99,6 +99,9 @@ afflib-tools aircrack-ng apktool arping arp-scan arpwatch autopsy backdoor-facto
 - https://wiki.xfce.org/faq
 - https://github.com/numixproject/numix-icon-theme/blob/master/license
 
+## Articles
+[raidforums](https://raidforums.com/Thread-Woodpecker-security-distro-for-remote-penetration-testing) [esgeeks](https://esgeeks.com/woodpecker-distro-seguridad-pentesting/?feed_id=1588&_unique_id=5f848450cba14)
+
 ## Disclaimer\Notes
 - Treat this image as server
 - Do not deploy without proper configuration
